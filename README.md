@@ -1,0 +1,1 @@
+# jhipster-v6.8.0-uaa-secured-micro-service
