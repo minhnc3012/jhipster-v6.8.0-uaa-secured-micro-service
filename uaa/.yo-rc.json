@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.formos.crm",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.formos.crm",
+    "packageFolder": "com/formos/crm",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWFkZWIzNjhjNGE2OTVlNzg3OGZhZmNhZmIwMjJiNTk4YjdjODAwNWQ2ZjBlZjUzOTNlMGYyYjY2OTY2OWNiMzM4ZDgwMjM3NDZhOTY1OThmYzVlOGViOWExMGY4ZDU4NWJlNDUyMzQxY2JmNTFiYTdhMmM4N2IzOGYxZjgwNmI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1584268836439,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
